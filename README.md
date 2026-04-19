@@ -9,7 +9,7 @@ Anyways, if this project gave you a little bit of inspiration, help, or made you
 Regards,
 Shaun Mathew
 ```
- 
+(Git Repo)[https://github.com/SpeedSlicer/TSA-THING/]
 ## Pages
 
 ### Submissions
