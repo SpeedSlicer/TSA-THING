@@ -16,6 +16,8 @@ Shaun Mathew
 [Previous Submissions/Projects](previous-projects/README.md)
 
 ### Guides
-[State Advisor Guide(.pdf)](advisor/state_advisor_guide.pdf) note: great read if you want to understand the setup behind TSA
 
 [Pathways to Excellence](pathways/README.md) note: sick pins
+
+[State Advisor Guide(.pdf)](advisor/state_advisor_guide.pdf) note: good read for some background and misc knowledge around tsa
+
